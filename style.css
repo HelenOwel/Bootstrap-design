@@ -1,0 +1,60 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar a{
+    padding: 0px 10px;
+}
+.serv{
+    background: #000;
+    width:130px;
+    text-align: center;
+    padding: 0;
+    margin:0;
+}
+.navbar{
+    position: sticky;
+    top:0;
+    z-index: 10;
+    background-color: #000;
+}
+.contain{
+    background-image: url(./background-img4.jpg);
+    background-position: center;
+    background-size: cover;
+    height:80vh;
+}
+.txt{
+    padding-top: 150px;
+}
+.image{
+    width: 540px;
+}
+.prods{
+    background: #fff;
+    border: 1px solid #fff;
+}
+.prods h2{
+    font-size: 19px;
+}
+.txt-box{
+    background: #f8f5f5;
+    justify-content: center;
+}
+.txt-box p{
+    width: 200px;
+    text-align: center;
+    padding-left: 20px;
+}
+.prods .fa, .fa-tower-broadcast {
+    font-size: 40px;
+    padding: 20px 0px;
+}
+.prods .fa-faucet-drip{
+    font-size: 40px;
+    padding: 20px 0px;
+}
+.cont, .fa{
+    padding-right: 8px;
+}
